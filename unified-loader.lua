@@ -4,6 +4,7 @@
 --========================================
 
 --========== ANTI DOUBLE EXECUTE ==========
+warn("UNIFIED LOADER AKTIF")
 getgenv().__UNIFIED_APP__ = getgenv().__UNIFIED_APP__ or {}
 local APP = getgenv().__UNIFIED_APP__
 
