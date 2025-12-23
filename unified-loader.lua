@@ -15,8 +15,8 @@ APP.VERSION = "1.0.0"
 
 --========== CONFIG (GANTI RAW KAMU) ==========
 local CONFIG = {
-    FFS = "PASTE_RAW_FFS_LOADER_DI_SINI",
-    CHLOE = "PASTE_RAW_CHLOEX_DI_SINI"
+    FFS = "https://raw.githubusercontent.com/Ridwan2809/Ridwan28/main/ffs-public/loader.lua",
+    CHLOE = "https://raw.githubusercontent.com/Ridwan2809/Ridwan28/main/Chloe-X/ChloeX.lua"
 }
 
 --========== SAFE HTTP LOAD ==========
